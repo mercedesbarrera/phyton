@@ -105,3 +105,4 @@ for letra in cadena:
         print(f"La letra {letra} aparece {contador} veces")
         # Agregamos la letra a la lista de letras ya contadas
         ocurrencias.append(letra)
+edrftgyhujihugyf
